@@ -1,3 +1,4 @@
 {
-    "rpc.appName": "Visual Studio Code"
+    "rpc.appName": "Visual Studio Code",
+    "rpc.enabled": true
 }
